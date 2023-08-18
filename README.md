@@ -1,6 +1,6 @@
 # SpelLSP
 
-Typical spellcheck features wrapped in a language server.
+Spellchecker as a language server.
 
 Supported features:
 - dictionary formats:
